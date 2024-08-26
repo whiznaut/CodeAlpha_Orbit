@@ -30,6 +30,12 @@
 ![Main Page](./screenshots/MainPage.png)
 ![Project Page](./screenshots/ProjectPage.png)
 
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
 ## Future Additions
 
 Here are some planned enhancements and features for future versions of Orbit:
