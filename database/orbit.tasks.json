@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "66c9f594d6cb1b96f3ae373e"
+  },
+  "title": "Design IoT Device Interface",
+  "description": "Create a user-friendly interface for controlling smart home devices, including lighting, temperature, and security systems, through a mobile app.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f4fed6cb1b96f3ae3722"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f5acd6cb1b96f3ae3747"
+  },
+  "title": "Develop Temperature Control Module",
+  "description": "Implement a module to monitor and adjust home temperature based on user preferences and environmental conditions.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f4fed6cb1b96f3ae3722"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f5bfd6cb1b96f3ae3750"
+  },
+  "title": "Implement Voice Control Feature",
+  "description": "Add voice control capabilities to the smart home app for hands-free operation of various devices.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f4fed6cb1b96f3ae3722"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f5d4d6cb1b96f3ae3759"
+  },
+  "title": "Test Device Connectivity",
+  "description": "Conduct tests to ensure all IoT devices maintain reliable connectivity and function as expected within the network.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f4fed6cb1b96f3ae3722"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f61cd6cb1b96f3ae3766"
+  },
+  "title": "Create Product Listing Page",
+  "description": "Develop a page to display a list of products with options to filter and sort by categories, price, and ratings.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f518d6cb1b96f3ae3727"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f62dd6cb1b96f3ae376f"
+  },
+  "title": "Implement Shopping Cart Functionality",
+  "description": "Develop features for adding items to the shopping cart, viewing cart contents, and updating quantities.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f518d6cb1b96f3ae3727"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f640d6cb1b96f3ae3778"
+  },
+  "title": " Integrate Payment Gateway",
+  "description": "Set up a secure payment gateway to handle transactions and process payments from customers.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f518d6cb1b96f3ae3727"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f650d6cb1b96f3ae3781"
+  },
+  "title": "Design User Authentication System",
+  "description": "Implement user authentication and registration functionality, including password recovery and email verification.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f518d6cb1b96f3ae3727"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f65fd6cb1b96f3ae378a"
+  },
+  "title": "Develop Order Confirmation Page",
+  "description": "Create a confirmation page that displays order details and payment information after a purchase is completed.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f518d6cb1b96f3ae3727"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f693d6cb1b96f3ae3797"
+  },
+  "title": "Develop Activity Tracking Feature",
+  "description": "Implement features to track and display user activities such as steps taken, distance traveled, and calories burned.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f6a1d6cb1b96f3ae37a0"
+  },
+  "title": "Design Workout Routine Module",
+  "description": "Create a module for users to plan, log, and track their workout routines and exercises.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f6aed6cb1b96f3ae37a9"
+  },
+  "title": "Integrate Health Data Sync",
+  "description": "Allow synchronization of health data with other fitness devices and apps for a comprehensive view of user health metrics.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f6bcd6cb1b96f3ae37b2"
+  },
+  "title": "Implement Progress Reports",
+  "description": "Develop a feature to generate and display progress reports, including graphs and summaries of user achievements.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f6cad6cb1b96f3ae37bb"
+  },
+  "title": "Add Social Sharing Functionality",
+  "description": "Enable users to share their fitness milestones and achievements on social media platforms directly from the app.",
+  "status": "Completed",
+  "projectId": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f6e6d6cb1b96f3ae37c8"
+  },
+  "title": "Create 3D Models of Destinations",
+  "description": "Develop detailed 3D models of popular travel destinations for use in the virtual reality environment.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f545d6cb1b96f3ae3731"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f6f3d6cb1b96f3ae37d1"
+  },
+  "title": "Implement Interactive Features",
+  "description": "Add interactive elements such as clickable points of interest, informational pop-ups, and user navigation controls.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f545d6cb1b96f3ae3731"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f701d6cb1b96f3ae37da"
+  },
+  "title": "Develop VR Navigation System",
+  "description": "Design and implement a navigation system that allows users to move seamlessly between different locations within the virtual environment.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f545d6cb1b96f3ae3731"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f710d6cb1b96f3ae37e3"
+  },
+  "title": "Optimize VR Performance",
+  "description": "Ensure the virtual reality experience runs smoothly on various devices by optimizing graphics and performance.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f545d6cb1b96f3ae3731"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f71dd6cb1b96f3ae37ec"
+  },
+  "title": "Test User Experience",
+  "description": "Conduct user testing to gather feedback on the virtual reality experience, focusing on usability and overall satisfaction.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f545d6cb1b96f3ae3731"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f764d6cb1b96f3ae37f9"
+  },
+  "title": "Develop Account Management Interface",
+  "description": "Create an interface for managing multiple social media accounts, including account setup and configuration options.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f559d6cb1b96f3ae3736"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f772d6cb1b96f3ae3802"
+  },
+  "title": "Implement Post Scheduling Feature",
+  "description": "Develop functionality for scheduling social media posts across various platforms with options for customization and timing.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f559d6cb1b96f3ae3736"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f77fd6cb1b96f3ae380b"
+  },
+  "title": "Integrate Analytics Tools ",
+  "description": "Add tools to track engagement metrics, such as likes, shares, and comments, across different social media accounts.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f559d6cb1b96f3ae3736"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f78cd6cb1b96f3ae3814"
+  },
+  "title": "Create Performance Reports",
+  "description": "Generate reports that summarize social media performance, including trends and insights for improving engagement strategies.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f559d6cb1b96f3ae3736"
+  },
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f799d6cb1b96f3ae381d"
+  },
+  "title": "Design Notification System",
+  "description": "Implement a notification system to alert users about important updates, such as comments or messages, across their social media accounts.",
+  "status": "In Progress",
+  "projectId": {
+    "$oid": "66c9f559d6cb1b96f3ae3736"
+  },
+  "comments": [],
+  "__v": 0
+}]

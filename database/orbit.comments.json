@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "66c9f862d6cb1b96f3ae3834"
+  },
+  "text": "Can we include a feature for users to customize the interface layout? Also, what color schemes do we prefer?",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "username": "Reem",
+  "projectId": {
+    "$oid": "66c9f4fed6cb1b96f3ae3722"
+  },
+  "parentCommentId": null,
+  "createdAt": {
+    "$date": "2024-08-24T15:12:34.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9f877d6cb1b96f3ae3845"
+  },
+  "text": "Are there any specific filters or sorting options we should include on the product listing page? How should we handle product variations?",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "username": "Reem",
+  "projectId": {
+    "$oid": "66c9f518d6cb1b96f3ae3727"
+  },
+  "parentCommentId": null,
+  "createdAt": {
+    "$date": "2024-08-24T15:12:55.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb3d0b813f4cfb82d842a1"
+  },
+  "text": "Sure!",
+  "userId": {
+    "$oid": "66c9ef66d6cb1b96f3ae3716"
+  },
+  "username": "User1",
+  "projectId": {
+    "$oid": "66c9f4fed6cb1b96f3ae3722"
+  },
+  "parentCommentId": {
+    "$oid": "66c9f862d6cb1b96f3ae3834"
+  },
+  "createdAt": {
+    "$date": "2024-08-25T14:17:47.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb3d84813f4cfb82d842bf"
+  },
+  "text": "When is the deadline for this project?",
+  "userId": {
+    "$oid": "66c9ef66d6cb1b96f3ae3716"
+  },
+  "username": "User1",
+  "projectId": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "parentCommentId": null,
+  "createdAt": {
+    "$date": "2024-08-25T14:19:48.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb3e12813f4cfb82d842fa"
+  },
+  "text": "End of the month",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "username": "Reem",
+  "projectId": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "parentCommentId": {
+    "$oid": "66cb3d84813f4cfb82d842bf"
+  },
+  "createdAt": {
+    "$date": "2024-08-25T14:22:10.832Z"
+  },
+  "__v": 0
+}]

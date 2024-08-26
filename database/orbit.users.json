@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "66c9ef66d6cb1b96f3ae3716"
+  },
+  "name": "User1",
+  "email": "user1@example.com",
+  "password": "$2a$10$rfQHbyI9rsymljicV9md8.fiZZ9ysuNsHFcTukYjWMbr7Thx5CgTG",
+  "date": {
+    "$date": "2024-08-24T14:34:14.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9ef7ad6cb1b96f3ae3718"
+  },
+  "name": "User2",
+  "email": "user2@example.com",
+  "password": "$2a$10$ANMqoGmF/5ZH3.FaqCktEeMHrNlWrGcwwWSRWNSWk5a.rqN90dgsa",
+  "date": {
+    "$date": "2024-08-24T14:34:34.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9ef8ad6cb1b96f3ae371a"
+  },
+  "name": "User3",
+  "email": "user3@example.com",
+  "password": "$2a$10$NSMjcebmMJw2b88e/sPd1O7DKwoJDo94JVx3U7AyRu1TujD9LyclS",
+  "date": {
+    "$date": "2024-08-24T14:34:50.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "name": "Reem",
+  "email": "reem@example.com",
+  "password": "$2a$10$C7jv5qxinQIuH9LV.sxvxeEyRVxeM4aZSqOSt.45P/5zG.VepJFc6",
+  "date": {
+    "$date": "2024-08-24T14:35:09.935Z"
+  },
+  "__v": 0
+}]

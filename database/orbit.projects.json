@@ -1,0 +1,244 @@
+[{
+  "_id": {
+    "$oid": "66c9f4fed6cb1b96f3ae3722"
+  },
+  "name": "Smart Home Automation",
+  "description": "Develop a comprehensive smart home automation system that integrates IoT devices for managing lighting, temperature, and security systems via a mobile app",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "users": [
+    {
+      "$oid": "66c9ef66d6cb1b96f3ae3716"
+    },
+    {
+      "$oid": "66c9ef7ad6cb1b96f3ae3718"
+    }
+  ],
+  "tasks": [
+    {
+      "$oid": "66c9f594d6cb1b96f3ae373e"
+    },
+    {
+      "$oid": "66c9f5acd6cb1b96f3ae3747"
+    },
+    {
+      "$oid": "66c9f5bfd6cb1b96f3ae3750"
+    },
+    {
+      "$oid": "66c9f5d4d6cb1b96f3ae3759"
+    }
+  ],
+  "comments": [
+    {
+      "$oid": "66c9f862d6cb1b96f3ae3834"
+    },
+    {
+      "$oid": "66cb3d0b813f4cfb82d842a1"
+    }
+  ],
+  "status": "Done",
+  "createdAt": {
+    "$date": "2024-08-24T14:58:06.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T14:17:47.959Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "66c9f518d6cb1b96f3ae3727"
+  },
+  "name": "E-Commerce Platform",
+  "description": "Create a fully functional e-commerce platform that allows users to browse products, add items to the cart, and make purchases. Includes features like user authentication, product management, and order processing.",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "users": [
+    {
+      "$oid": "66c9ef66d6cb1b96f3ae3716"
+    },
+    {
+      "$oid": "66c9ef7ad6cb1b96f3ae3718"
+    },
+    {
+      "$oid": "66c9ef8ad6cb1b96f3ae371a"
+    }
+  ],
+  "tasks": [
+    {
+      "$oid": "66c9f61cd6cb1b96f3ae3766"
+    },
+    {
+      "$oid": "66c9f62dd6cb1b96f3ae376f"
+    },
+    {
+      "$oid": "66c9f640d6cb1b96f3ae3778"
+    },
+    {
+      "$oid": "66c9f650d6cb1b96f3ae3781"
+    },
+    {
+      "$oid": "66c9f65fd6cb1b96f3ae378a"
+    }
+  ],
+  "comments": [
+    {
+      "$oid": "66c9f877d6cb1b96f3ae3845"
+    }
+  ],
+  "status": "Not Started",
+  "createdAt": {
+    "$date": "2024-08-24T14:58:32.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T15:12:55.206Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "66c9f52fd6cb1b96f3ae372c"
+  },
+  "name": "Fitness Tracker App",
+  "description": "Design a mobile app that tracks users' fitness activities, including steps, calories burned, and workout routines. The app should also provide progress reports and motivational statistics.",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "users": [
+    {
+      "$oid": "66c9ef66d6cb1b96f3ae3716"
+    },
+    {
+      "$oid": "66c9ef7ad6cb1b96f3ae3718"
+    },
+    {
+      "$oid": "66c9ef8ad6cb1b96f3ae371a"
+    }
+  ],
+  "tasks": [
+    {
+      "$oid": "66c9f693d6cb1b96f3ae3797"
+    },
+    {
+      "$oid": "66c9f6a1d6cb1b96f3ae37a0"
+    },
+    {
+      "$oid": "66c9f6aed6cb1b96f3ae37a9"
+    },
+    {
+      "$oid": "66c9f6bcd6cb1b96f3ae37b2"
+    },
+    {
+      "$oid": "66c9f6cad6cb1b96f3ae37bb"
+    }
+  ],
+  "comments": [
+    {
+      "$oid": "66cb3d84813f4cfb82d842bf"
+    },
+    {
+      "$oid": "66cb3e12813f4cfb82d842fa"
+    }
+  ],
+  "status": "Done",
+  "createdAt": {
+    "$date": "2024-08-24T14:58:55.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T14:22:31.892Z"
+  },
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "66c9f545d6cb1b96f3ae3731"
+  },
+  "name": "Virtual Reality Travel Experience",
+  "description": "Build a virtual reality application that allows users to explore different travel destinations around the world in an immersive 3D environment.",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "users": [
+    {
+      "$oid": "66c9ef66d6cb1b96f3ae3716"
+    },
+    {
+      "$oid": "66c9ef7ad6cb1b96f3ae3718"
+    }
+  ],
+  "tasks": [
+    {
+      "$oid": "66c9f6e6d6cb1b96f3ae37c8"
+    },
+    {
+      "$oid": "66c9f6f3d6cb1b96f3ae37d1"
+    },
+    {
+      "$oid": "66c9f701d6cb1b96f3ae37da"
+    },
+    {
+      "$oid": "66c9f710d6cb1b96f3ae37e3"
+    },
+    {
+      "$oid": "66c9f71dd6cb1b96f3ae37ec"
+    }
+  ],
+  "comments": [],
+  "status": "Not Started",
+  "createdAt": {
+    "$date": "2024-08-24T14:59:17.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T15:07:09.161Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "66c9f559d6cb1b96f3ae3736"
+  },
+  "name": "Social Media Dashboard",
+  "description": "Develop a dashboard for managing multiple social media accounts. The tool should allow users to schedule posts, track engagement metrics, and analyze social media performance across various platforms.",
+  "userId": {
+    "$oid": "66c9ef9dd6cb1b96f3ae371c"
+  },
+  "users": [
+    {
+      "$oid": "66c9ef7ad6cb1b96f3ae3718"
+    },
+    {
+      "$oid": "66c9ef8ad6cb1b96f3ae371a"
+    },
+    {
+      "$oid": "66c9ef9dd6cb1b96f3ae371c"
+    }
+  ],
+  "tasks": [
+    {
+      "$oid": "66c9f764d6cb1b96f3ae37f9"
+    },
+    {
+      "$oid": "66c9f772d6cb1b96f3ae3802"
+    },
+    {
+      "$oid": "66c9f77fd6cb1b96f3ae380b"
+    },
+    {
+      "$oid": "66c9f78cd6cb1b96f3ae3814"
+    },
+    {
+      "$oid": "66c9f799d6cb1b96f3ae381d"
+    }
+  ],
+  "comments": [],
+  "status": "Not Started",
+  "createdAt": {
+    "$date": "2024-08-24T14:59:37.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T15:09:13.451Z"
+  },
+  "__v": 5
+}]
