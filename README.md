@@ -24,7 +24,6 @@
 
 ## Screenshots
 
-*Include screenshots of your application here to showcase its features and interface.*
 
 ![Login Page](./screenshots/LoginPage.png)
 ![Main Page](./screenshots/MainPage.png)
